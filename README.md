@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=Profile&fontSize=90&animation=fadeIn)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=46&duration=4000&pause=1000&color=9B89FF&random=false&width=435&lines=Welcome+to+Yujin's+GitHub!)](https://git.io/typing-svg)
+
 # 🍳 임유진
 
 ## 🍀Experience
