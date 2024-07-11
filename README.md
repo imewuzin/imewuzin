@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=Profile&fontSize=90&animation=fadeIn)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=&animation=twinkling&height=80)
 # 🍳 임유진
 
 ## 🍀Experience
