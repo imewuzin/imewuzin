@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=About+Yujin&animation=fadeIn&height=80)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=About+Yujin&animation=fadeIn&height=150)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=31&duration=4000&pause=1000&color=9B89FF&random=false&width=435&lines=About+Yujin!)](https://git.io/typing-svg)
 
 # 🍳 임유진
