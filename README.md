@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=31&duration=4000&pause=1000&color=9B89FF&random=false&width=435&lines=Welcome+to+Yujin's+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=31&duration=4000&pause=1000&color=9B89FF&random=false&width=435&lines=About+Yujin!)](https://git.io/typing-svg)
 
 # 🍳 임유진
 
@@ -17,12 +17,12 @@
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div> 
-         
+         studying
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
-        
+        studyint
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
