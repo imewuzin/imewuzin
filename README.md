@@ -10,18 +10,18 @@
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C">
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div> 
-         studying
+         😢 Studying
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
-        studyint
+        😢 Studying
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
