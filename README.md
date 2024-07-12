@@ -25,8 +25,8 @@
 </div><br>
 </div>
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imewuzin&layout=compact)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=erin523)](https://solved.ac/erin523/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imewuzin&show_icons=true&theme=radical)
+![Imewuzin's GitHub stats](https://github-readme-stats.vercel.app/api?username=imewuzin&show_icons=true&theme=buefy)
