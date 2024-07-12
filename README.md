@@ -7,37 +7,21 @@
     홍익대학교 전자전기공학부
 </div>
 <br><br>
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center">📚 Skills 📚</h3>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
-    <p align="center"><strong>Backend</strong></p>
+    <!-- Languages -->
+    <p align="center"><strong>Languages</strong></p>
     <div align="center">
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-    </div>
-    <br>
-    <!-- Database -->
-    <p align="center"><strong>Database</strong></p>
-    <div align="center"> 
-         😢 Studying
-    </div>
-    <br>
-    <!-- Server -->
-    <p align="center"><strong>Server</strong></p>
-    <div align="center">
-        😢 Studying
-    </div>
-    <br>
-    <!-- Frontend -->
-    <p align="center"><strong>Frontend</strong></p>
-    <div align="center">
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-    </div>
-    <br>
-    <!-- Others -->
-    <p align="center"><strong>Others</strong></p>
-    <div align="center">
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+    </div>
+    <br>
+    <br>
+    <!-- Tools -->
+    <p align="center"><strong>Tools</strong></p>
+    <div align="center">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
 </div><br>
 </div>
 
