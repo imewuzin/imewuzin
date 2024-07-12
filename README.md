@@ -25,11 +25,11 @@
 </div>
 <h3 align="center"> Projects 🌟</h3>
 
-<div align="center">
-    [[영상처리] Python을 이용한 영상처리 및 Histogram 분석](https://github.com/imewuzin/project/blob/master/ImageProcessing.pdf)
 
-    [[딥러닝] YOLO와 FasterRCNN을 이용한 데이터 라벨링 및 객체 인식 모델 실습](https://github.com/imewuzin/project/blob/master/DeepLearning_YOLO%26FasterRCNN.pdf)
-</div>
+[[영상처리] Python을 이용한 영상처리 및 Histogram 분석](https://github.com/imewuzin/project/blob/master/ImageProcessing.pdf)
+
+[[딥러닝] YOLO와 FasterRCNN을 이용한 데이터 라벨링 및 객체 인식 모델 실습](https://github.com/imewuzin/project/blob/master/DeepLearning_YOLO%26FasterRCNN.pdf)
+
 <br>
 <br>
 
