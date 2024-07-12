@@ -41,22 +41,18 @@
 </div>
 <h3 align="center"> 💻 Projects 💻</h3>
 
-<center>
+<div align="center">
 
 [[영상처리] Python을 이용한 영상처리 및 Histogram 분석](https://github.com/imewuzin/project/blob/master/ImageProcessing.pdf)
 
 [[딥러닝] YOLO와 FasterRCNN을 이용한 데이터 라벨링 및 객체 인식 모델 실습](https://github.com/imewuzin/project/blob/master/DeepLearning_YOLO%26FasterRCNN.pdf)
 
-<center>
+</div>
 
 <br>
 <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imewuzin&layout=donut&width=38%)
-![Imewuzin's GitHub stats](https://github-readme-stats.vercel.app/api?username=imewuzin&show_icons=true&theme=buefy&width=56%) 
-
-
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=erin523)](https://solved.ac/erin523/)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imewuzin&layout=donut&show_icons=true&hide_border=true&bg_color=FFFFF&icon_color=DDDDFF&text_color=2F4F4F&title_color=DDBBDD&count_private=true&exclude_repo=Face-Transfer-Application" width=38% /> <img src="https://github-readme-stats.vercel.app/api?username=imewuzin&show_icons=true&theme=buefy&hide_border=true&bg_color=FFFFF&icon_color=DDDDFF&text_color=2F4F4F&title_color=BBBBDD&count_private=true" width=50% />
 
 
