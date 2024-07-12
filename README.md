@@ -23,7 +23,7 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
 </div><br>
 </div>
-<h3 align="center"> Projects 🌟</h3>
+<h3 align="center"> 💻 Projects 💻</h3>
 
 
 [[영상처리] Python을 이용한 영상처리 및 Histogram 분석](https://github.com/imewuzin/project/blob/master/ImageProcessing.pdf)
