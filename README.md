@@ -47,9 +47,13 @@
 
 [[딥러닝] YOLO와 FasterRCNN을 이용한 데이터 라벨링 및 객체 인식 모델 실습](https://github.com/imewuzin/project/blob/master/DeepLearning_YOLO%26FasterRCNN.pdf)
 
-</div>
+</div><br>
+<h3 align="center"> ✏️ Stydies ✏️</h3>
+<div align="center">
+    
+[[2024.08.07~ ] CS 스터디](https://www.notion.so/CS-feb23db7efab4e769b689059d4942c01)
 
-<br>
+</div><br>
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=erin523)](https://solved.ac/erin523/)
