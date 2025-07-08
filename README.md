@@ -1,24 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=About+Yujin&animation=fadeIn&height=150&align=center)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=YuJin+Lim&animation=fadeIn&height=150&align=center)
 
-<br>
 
-## 🌟 Experience 🌟
-(2019.03 ~ 2024.08) 홍익대학교 전자전기공학부  
-(2024.07 ~ 2025.06) 삼성 청년 SW AI 아카데미(SSAFY) 12기  
-(2025.07 ~ ) 우리FIS Academy 클라우드 엔지니어링 5기
+## 👋 Hi!
+I’m Yujin, a versatile developer with experience spanning full-stack web development, embedded systems, and AI. Skilled in React, Django, Vue.js, and microcontroller programming among others, I enjoy learning new technologies like cloud computing and applying them to create practical solutions that connect people and technology.
 
-<br>
-
-## ✨ Contact ✨
 [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=square&logo=Instagram&logoColor=white)](https://www.instagram.com/imew_uzin/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=square&logo=Gmail&logoColor=white)](mailto:erin456852@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-03C75A.svg?style=square&logo=Naver&logoColor=white)](mailto:erin90523@naver.com)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=square&logo=notion&logoColor=white)](https://www.notion.so/1ba048e7c2b080d0b0e5ec4a1908a05c)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=square&logo=velog&logoColor=white)](https://velog.io/@erin523/posts)
 
+### 🌟 Experience 🌟
+- (2019.03 ~ 2024.08) 홍익대학교 전자전기공학부  
+- (2024.07 ~ 2025.06) 삼성 청년 SW AI 아카데미(SSAFY) 12기  
+- (2025.07 ~ ) 우리FIS Academy 클라우드 엔지니어링 5기
+
+
 <br>
 
-## 📚 Skills
+### 📚 Skills
 
 #### 💬 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=square&logo=python&logoColor=white)
@@ -64,12 +64,12 @@
 
 <br>
 
-## 💻 Projects
+### 💻 Projects
 
 | No | 프로젝트 이름 | 사진 | 주요 내용 | 링크 |
 |---|---|---|---|---|
-| 1 | **영상처리** | <img src="https://github.com/imewuzin/project/blob/master/DeepLearning_YOLO%26FasterRCNN.pdf" width="200/> | Python·OpenCV를 활용한 영상처리 알고리즘 | [Github 링크](https://github.com/imewuzin/project/blob/master/ImageProcessing.pdf) |
-| 2 | **딥러닝** | <img src="=https://github.com/imewuzin/project/blob/master/ImageProcessing.pdf" width="200"/> | YOLO와 FasterRCNN을 이용한 데이터 라벨링 및 객체 인식 모델 실습 | [Github 링크](https://github.com/imewuzin/project/blob/master/DeepLearning_YOLO%26FasterRCNN.pdf) |
+| 1 | **영상처리** | <img src="https://github.com/imewuzin/project/blob/master/%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC.gif" width="200"/> | Python·OpenCV를 활용한 영상처리 알고리즘 | [Github 링크](https://github.com/imewuzin/project/blob/master/ImageProcessing.pdf) |
+| 2 | **딥러닝** | <img src="https://github.com/imewuzin/project/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D.gif" width="200"/> | YOLO와 FasterRCNN을 이용한 데이터 라벨링 및 객체 인식 모델 실습 | [Github 링크](https://github.com/imewuzin/project/blob/master/DeepLearning_YOLO%26FasterRCNN.pdf) |
 | 3 | **달려라 멍니** | <img src="https://github.com/ssafy-pjt-run-moneey/final-pjt/blob/main/image/Runmonney.png" width="200"/> | Vue.js·Django 기반 예적금 상품 추천 및 커뮤니티 웹 서비스 | [Github 링크](https://github.com/ssafy-pjt-run-moneey/final-pjt) |
 | 4 | **SSAFinancial** | <img src="https://github.com/imewuzin/project/blob/master/SSafinancial_logo.png" width="200"/> | RAG 기반 금융상품·금융용어 설명 챗봇 | [Github 링크](https://github.com/imewuzin/ssafy-ai-front) |
 | 5 | **D3V** | <img src="https://github.com/imewuzin/D3V/blob/master/frontend/src/assets/images/logo.gif" width="200"/> | AI 피드백 기반 하루 3개 질문으로 완성하는 맞춤형 IT 면접 준비 서비스 | [Github 링크](https://github.com/imewuzin/D3V?tab=readme-ov-file) |
@@ -79,7 +79,7 @@
 
 <br>
 
-## ➰ Ranking
+### ➰ Ranking
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=erin523)](https://solved.ac/erin523/)
 
