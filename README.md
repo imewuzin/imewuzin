@@ -15,8 +15,7 @@ I’m Yujin, a versatile developer with experience spanning full-stack web devel
 - (2024.07 ~ 2025.06) 삼성 청년 SW AI 아카데미(SSAFY) 12기  
 - (2025.07 ~ ) 우리FIS Academy 클라우드 엔지니어링 5기
 
-
-<br>
+---
 
 ### 📚 Skills
 
@@ -62,7 +61,7 @@ I’m Yujin, a versatile developer with experience spanning full-stack web devel
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=square&logo=matplotlib&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=square&logo=scipy&logoColor=white)
 
-<br>
+---
 
 ### 💻 Projects
 
@@ -77,13 +76,11 @@ I’m Yujin, a versatile developer with experience spanning full-stack web devel
 | 7 | **DBDeep** | <img src="https://github.com/seul1230/DB-Deep/blob/main/frontend/src/assets/logo.png" width="200"/> | NL2SQL·NL2Chart 기반 자연어 데이터 분석 플랫폼 (구글 기업 연계 프로젝트) | [Github 링크](https://github.com/seul1230/DB-Deep) |
 
 
-<br>
+---
 
 ### ➰ Ranking
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=erin523)](https://solved.ac/erin523/)
-
-<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imewuzin&layout=donut&show_icons=true&hide_border=true&bg_color=FFFFF&icon_color=DDDDFF&text_color=2F4F4F&title_color=DDBBDD&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 <img src="https://github-readme-stats.vercel.app/api?username=imewuzin&show_icons=true&theme=buefy&hide_border=true&bg_color=FFFFF&icon_color=DDDDFF&text_color=2F4F4F&title_color=BBBBDD&count_private=true" width=56% />
