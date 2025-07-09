@@ -11,9 +11,9 @@ I’m Yujin, a versatile developer with experience spanning full-stack web devel
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=square&logo=velog&logoColor=white)](https://velog.io/@erin523/posts)
 
 ### 🌟 Experience 🌟
-- (2019.03 ~ 2024.08) 홍익대학교 전자전기공학부  
-- (2024.07 ~ 2025.06) 삼성 청년 SW AI 아카데미(SSAFY) 12기  
-- (2025.07 ~ ) 우리FIS Academy 클라우드 엔지니어링 5기
+- 2019.03 ~ 2024.08 홍익대학교 전자전기공학부  
+- 2024.07 ~ 2025.06 삼성 청년 SW AI 아카데미(SSAFY) 12기  
+- 2025.07 ~  우리FIS Academy 클라우드 엔지니어링 5기
 
 ---
 
