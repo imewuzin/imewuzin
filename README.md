@@ -81,5 +81,4 @@ I’m Yujin, a versatile developer with experience spanning full-stack web devel
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=erin523)](https://solved.ac/erin523/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imewuzin&layout=donut&show_icons=true&hide_border=true&bg_color=FFFFF&icon_color=DDDDFF&text_color=2F4F4F&title_color=DDBBDD&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-<img src="https://github-readme-stats.vercel.app/api?username=imewuzin&show_icons=true&theme=buefy&hide_border=true&bg_color=FFFFF&icon_color=DDDDFF&text_color=2F4F4F&title_color=BBBBDD&count_private=true" width=56% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imewuzin&layout=donut&show_icons=true&hide_border=true&bg_color=FFFFF&icon_color=DDDDFF&text_color=2F4F4F&title_color=DDBBDD&count_private=true&exclude_repo=Face-Transfer-Application" /> <img src="https://github-readme-stats.vercel.app/api?username=imewuzin&show_icons=true&theme=buefy&hide_border=true&bg_color=FFFFF&icon_color=DDDDFF&text_color=2F4F4F&title_color=BBBBDD&count_private=true" />
