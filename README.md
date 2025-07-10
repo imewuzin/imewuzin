@@ -2,7 +2,8 @@
 
 
 ## 👋 Hi!
-I’m Yujin, a versatile developer with experience spanning full-stack web development, embedded systems, and AI. Skilled in React, Django, Vue.js, and microcontroller programming among others, I enjoy learning new technologies like cloud computing and applying them to create practical solutions that connect people and technology.
+I’m Yujin, a versatile developer with a strong background in full-stack web development, embedded systems, and AI. <br>
+I enjoy learning new technologies like cloud computing, exploring innovative tools, and building practical solutions that connect people and technology.
 
 [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=square&logo=Instagram&logoColor=white)](https://www.instagram.com/imew_uzin/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=square&logo=Gmail&logoColor=white)](mailto:erin456852@gmail.com)
@@ -17,49 +18,81 @@ I’m Yujin, a versatile developer with experience spanning full-stack web devel
 
 ---
 
-### 📚 Skills
+### 📚 Tech Skills
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=square&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-007396?style=square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-336791?style=square&logo=sqlite&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=square&logo=vue.js&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Django-092E20?style=square&logo=django&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Database</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=square&logo=oracle&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Cloud · Infra</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=square&logo=awsamplify&logoColor=white" />
+        <img src="https://img.shields.io/badge/Fly.io-01012B?style=square&logo=fly.io&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tools · DevOps</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=square&logo=eclipseide&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitLab-FC6D26?style=square&logo=gitlab&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=square&logo=googlecolab&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Library · Framework</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Numpy-013243?style=square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=square&logo=matplotlib&logoColor=white" />
+        <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=square&logo=scipy&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-#### 💬 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=square&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=square&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=square&logo=sqlite&logoColor=white)
-
-#### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=square&logo=vue.js&logoColor=white)
-
-#### ⚙️ Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=square&logo=django&logoColor=white)
-
-#### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=square&logo=oracle&logoColor=white)
-
-#### ☁️ Cloud · Infra
-![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=square&logo=awsamplify&logoColor=white)
-![Fly.io](https://img.shields.io/badge/Fly.io-01012B?style=square&logo=fly.io&logoColor=white)
-
-#### 🛠️ Tools · DevOps
-![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=square&logo=eclipseide&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=square&logo=gitlab&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=square&logo=googlecolab&logoColor=white)
-
-#### 🧩 Library · Framework
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=square&logo=opencv&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=square&logo=matplotlib&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=square&logo=scipy&logoColor=white)
 
 ---
 
