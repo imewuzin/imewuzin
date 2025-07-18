@@ -107,7 +107,7 @@ I enjoy learning new technologies like cloud computing, exploring innovative too
 | 5 | **D3V** | <img src="https://github.com/imewuzin/D3V/blob/master/frontend/src/assets/images/logo.gif" width="200"/> | AI 피드백 기반 하루 3개 질문으로 완성하는 <br>맞춤형 IT 면접 준비 서비스 | [🔗](https://github.com/imewuzin/D3V?tab=readme-ov-file) |
 | 6 | **모여바라** | <img src="https://github.com/DDuMandoo/moba/blob/master/moyobara.png" width="200"/> | React Native 하이브리드 약속 관리·정산 앱  | [🔗](https://github.com/DDuMandoo/moba/blob/master/README.md) |
 | 7 | **DBDeep** | <img src="https://github.com/seul1230/DB-Deep/blob/main/frontend/src/assets/logo.png" width="200"/> | NL2SQL·NL2Chart 기반 자연어 데이터 분석 플랫폼 <br>(구글 기업 연계 프로젝트) | [🔗](https://github.com/seul1230/DB-Deep) |
-| 8| **우리FISA 미니 프로젝트 모음** | <img src="https://github.com/imewuzin/FISA_mini_projects/blob/master/FISA%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8.png" width="200"/> | 우리FISA 클라우드 엔지니어링 과정에서 진행한 <br>미니 프로젝트와 학습 내용 모음 | [🔗](https://github.com/imewuzin/FISA_mini_projects/tree/master) |
+| 8| **우리FISA <br>미니 프로젝트 모음** | <img src="https://github.com/imewuzin/FISA_mini_projects/blob/master/FISA%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8.png" width="200"/> | 우리FISA 클라우드 엔지니어링 과정에서 진행한 <br>미니 프로젝트와 학습 내용 모음 | [🔗](https://github.com/imewuzin/FISA_mini_projects/tree/master) |
 ---
 
 ### ➰ Ranking
