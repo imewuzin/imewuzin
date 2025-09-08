@@ -47,6 +47,7 @@ I enjoy learning new technologies like cloud computing, exploring innovative too
       <td>
         <img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/React_Native-61DAFB?style=square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=square&logo=expo&logoColor=white" />
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=square&logo=vue.js&logoColor=white" />
       </td>
     </tr>
@@ -54,6 +55,8 @@ I enjoy learning new technologies like cloud computing, exploring innovative too
       <td><strong>Backend</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Django-092E20?style=square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=square&logo=springboot&logoColor=white" />
       </td>
     </tr>
     <tr>
@@ -68,6 +71,10 @@ I enjoy learning new technologies like cloud computing, exploring innovative too
       <td>
         <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=square&logo=awsamplify&logoColor=white" />
         <img src="https://img.shields.io/badge/Fly.io-01012B?style=square&logo=fly.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/VMware-607078?style=square&logo=vmware&logoColor=white" />
+        <img src="https://img.shields.io/badge/Packet_Tracer-0066CC?style=square&logo=cisco&logoColor=white" />
       </td>
     </tr>
     <tr>
