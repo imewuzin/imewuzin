@@ -28,6 +28,13 @@ I enjoy learning new technologies like cloud computing, exploring innovative too
   </thead>
   <tbody>
     <tr>
+      <td><strong>OS</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=square&logo=windows&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
       <td><strong>Languages</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=python&logoColor=white" />
@@ -71,7 +78,6 @@ I enjoy learning new technologies like cloud computing, exploring innovative too
       <td>
         <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=square&logo=awsamplify&logoColor=white" />
         <img src="https://img.shields.io/badge/Fly.io-01012B?style=square&logo=fly.io&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=square&logo=linux&logoColor=black" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/VMware-607078?style=square&logo=vmware&logoColor=white" />
         <img src="https://img.shields.io/badge/Packet_Tracer-0066CC?style=square&logo=cisco&logoColor=white" />
@@ -99,6 +105,7 @@ I enjoy learning new technologies like cloud computing, exploring innovative too
     </tr>
   </tbody>
 </table>
+
 
 
 ---
