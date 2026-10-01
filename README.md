@@ -14,7 +14,6 @@ I enjoy learning new technologies like cloud computing, exploring innovative too
 ### 🌟 Experience 🌟
 - 2019.03 ~ 2024.08 홍익대학교 전자전기공학부  
 - 2024.07 ~ 2025.06 삼성 청년 SW AI 아카데미(SSAFY) 12기  
-- 2025.07 ~  우리FIS Academy 클라우드 엔지니어링 5기
 
 ---
 
